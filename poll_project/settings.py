@@ -96,8 +96,6 @@ DATABASES = {
 }
 
 
-DATABASES['default'].update(db_from_env)
-
 
 
 # Password validation
