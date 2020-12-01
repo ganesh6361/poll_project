@@ -5,3 +5,4 @@ ENV/
 .python
 .vscode
 vscode/
+psycopg2
